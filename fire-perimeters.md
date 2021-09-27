@@ -54,13 +54,13 @@ The [National Interagency Fire Center](https://www.nifc.gov/) (NIFC) has initiat
 }
 </pre>
 
-_add additional layers for each year, replaceing the tileset name and tileset source with associated year from 2010-2019 */
+_add additional layers for each year, replaceing the tileset name and tileset source with associated year from 2010-2019_
 
 ## Link to original data 
 
 https://data-nifc.opendata.arcgis.com/search
 
-## Images (1-2)
+## Images
 
 ![](https://github.com/mapbox/data-exchange/blob/main/res/img/wildfire-tilesets.png?raw=true)
 ![](https://github.com/mapbox/data-exchange/blob/main/res/img/wildfire-latimtes.png?raw=true)
