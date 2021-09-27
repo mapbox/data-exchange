@@ -1,36 +1,69 @@
 ## Tileset Name
 
+Historic US Wildfires
+
 ## Tileset ID(s)
+
+[enf.fire-perimeters](https://studio.mapbox.com/tilesets/enf.fire-perimeters/#3.68/39.56/-98.27)
 
 ## About the data
 
+Historic fire perimeters in the US from 2010-2019
+
 ## Organization Name
+
+National Interagency Fire Center _processed by Mapbox_
 
 ## Organization Description
 
-## Please include a brief description of the organization with a link to the website or PoC for learning more about the data.
+The [National Interagency Fire Center](https://www.nifc.gov/) (NIFC) has initiated this project to better share maps and data related to wildland fire activities across the country with all agencies and persons interested in such data.
 
 ## What's included in the tileset (brief description)
 
-## List of attributes - property, description, type (integer or string). This can be copied from the tilesets preview in Studio.
 
 | Property | Description | Type |
 | --- | --- | ----
-| name | County name | string |
-| | | |
+| fireyear | year of fire | number |
+| gisacres | acres within perimeter | number |
 
 ## Recipe File
 
+<pre>
+{
+    "version": 1,
+    "layers": {
+        "perimeters_2019": {
+            "minzoom": 0,
+            "maxzoom": 11,
+            "source": "mapbox://tileset-source/enf/2019_perimeters",
+            "features": {
+                "attributes": {
+                    "set": {
+                        "irwinid": null,
+                        "st_area_sh": null,
+                        "st_length_": null,
+                        "shape_Leng": null,
+                        "shape_Area": null
+                    }
+                }
+            },
+            "tiles": {
+                "id": null
+            }
+        }
+}
+</pre>
+
+_add additional layers for each year, replaceing the tileset name and tileset source with associated year from 2010-2019 */
+
 ## Link to original data 
 
-_If available_
+https://data-nifc.opendata.arcgis.com/search
 
 ## Images (1-2)
 
-Images should be less than 4 Mbs
+![](https://github.com/mapbox/data-exchange/blob/main/res/img/wildfire-tilesets.png?raw=true)
+![](https://github.com/mapbox/data-exchange/blob/main/res/img/wildfire-latimtes.png?raw=true)
 
-## GIFS (1-2) 
-
-GIFs should be less than 2Mbs. If you need to reduce the size of your GIF, check out <https://ezgif.com/resize/ezgif-1-92c065b78d4f.gif>
 
 ## Tips for working with this data
