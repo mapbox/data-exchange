@@ -6,3 +6,6 @@ This repositiory documents public tilesets based on open data. Includes details 
 
 [Historic US Wildfires](fire-perimeters.md) in 2010-2019. From the National Interagency Fire Center _processed by Mapbox_
 
+## Indigenous territories 
+
+[Indigenous traditional territories](native-land.md) around the world, curated by Native Land
