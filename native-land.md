@@ -39,6 +39,8 @@ _If available_
 
 ## Images
 
+![image](https://user-images.githubusercontent.com/22896/135348921-eed23210-bb5a-42d7-ada8-cbbd1b161122.png)
+
 ## Tips for working with this data
 
 Please ensure that you are using the data responsibly -- it is not a legal or academic resource, and it is a work in progress. It changes on an ongoing basis and we are not “finished” with mapping the world. We welcome suggestions. We appreciate if you credit Native Land Digital and Native-Land.ca, but it’s not required. Finally, please spend some time to learn more about the land you are on!
