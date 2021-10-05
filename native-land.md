@@ -33,9 +33,20 @@ A set of polygons that represent Indigenous traditional territories around the w
 
 ## Recipe File
 
+{
+  "version": 1,
+  "layers": {
+    "nativelands": {
+      "source": "mapbox://tileset-source/nativeland/nativelands-src",
+      "minzoom": 0,
+      "maxzoom": 7
+    }
+  }
+}
+
 ## Link to original data 
 
-_If available_
+https://native-land.ca/resources/api-docs/
 
 ## Images
 
