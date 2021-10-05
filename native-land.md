@@ -33,6 +33,7 @@ A set of polygons that represent Indigenous traditional territories around the w
 
 ## Recipe File
 
+<pre>
 {
   "version": 1,
   "layers": {
@@ -43,6 +44,7 @@ A set of polygons that represent Indigenous traditional territories around the w
     }
   }
 }
+</pre>
 
 ## Link to original data 
 
