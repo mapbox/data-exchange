@@ -1,3 +1,4 @@
+
 ## Tileset Name
 
 Historic US Wildfires
@@ -25,6 +26,8 @@ The [National Interagency Fire Center](https://www.nifc.gov/) (NIFC) has initiat
 | --- | --- | ----
 | fireyear | year of fire | number |
 | gisacres | acres within perimeter | number |
+
+![](https://github.com/mapbox/data-exchange/blob/main/res/img/wildfire-tilesets.png?raw=true)
 
 ## Recipe File
 
@@ -62,8 +65,4 @@ https://data-nifc.opendata.arcgis.com/search
 
 ## Images
 
-![](https://github.com/mapbox/data-exchange/blob/main/res/img/wildfire-tilesets.png?raw=true)
 ![](https://github.com/mapbox/data-exchange/blob/main/res/img/wildfire-latimtes.png?raw=true)
-
-
-## Tips for working with this data
