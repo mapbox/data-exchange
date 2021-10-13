@@ -13,7 +13,7 @@ This document includes three tilesets
 
 ## Organization Description
 
-Probable Futures is an initiative that aims to increase the chances that our future is good. We offer useful tools to visualize climate change along with stories and insights to help people understand what those changes mean. We also partner with courageous leaders and influential organizations---without cost or compensation---to show how this perspective and these tools can be applied towards practical approaches to the problems posed by climate change. 
+Probable Futures is an initiative that aims to increase the chances that our future is good. We offer useful tools to visualize climate change along with stories and insights to help people understand what those changes mean. We also partner with courageous leaders and influential organizations — without cost or compensation — to show how this perspective and these tools can be applied towards practical approaches to the problems posed by climate change. 
 
 ## Tips for working with this data 
 
@@ -113,9 +113,9 @@ pctl90 | This is the 90th percentile of the number of days per year that reach f
 
 #### Recipe Files
 
--   [probablefutures.40205-east-draft](https://txt.fyi/-/21271/af58505d/)
+-   [probablefutures.40205-east-draft](https://gist.github.com/petercroce/b2febc80e869ab61f19ef7f9ce387a20)
 
--   [probablefutures.40205-west-draft](https://txt.fyi/-/21271/8779860a/)
+-   [probablefutures.40205-west-draft](https://gist.github.com/petercroce/5d83079ad08659298a395fdeb7a42ac0)
 
 
 #### Images
@@ -147,8 +147,8 @@ pctl90 | This is the 90th percentile of the temperature (in Celsius) of the 10 h
 
 #### Recipe Files
 
--   [probablefutures.40305-east-draft](https://txt.fyi/-/21280/e10d30fb/)
--   [probablefutures.40305-west-draft](https://txt.fyi/-/21280/e89c3e07/)
+-   [probablefutures.40305-east-draft](https://gist.github.com/petercroce/1cfddabeecbaac9dd9710950cdf3c2b0)
+-   [probablefutures.40305-west-draft](https://gist.github.com/petercroce/833dbf777d8d0bd4a97a16b6c63909c0)
 
 #### Images
 
@@ -161,8 +161,8 @@ pctl90 | This is the 90th percentile of the temperature (in Celsius) of the 10 h
 
 #### Tileset IDs
 
--   [probablefutures.40104-east-draft]((https://studio.mapbox.com/tilesets/probablefutures.40104-east-draft/)
--   [probablefutures.40104-west-draft]((https://studio.mapbox.com/tilesets/probablefutures.40104-east-draft/)
+-   [probablefutures.40104-east-draft](https://studio.mapbox.com/tilesets/probablefutures.40104-east-draft/)
+-   [probablefutures.40104-west-draft](https://studio.mapbox.com/tilesets/probablefutures.40104-east-draft/)
 
 #### About the data
 [Example of the tileset displayed on the public Probable Futures platform](https://probablefutures.org/heat/maps-of-heat/?selected_map=cksssg07h3itq17nkf2zav4sw#2.2/0/0).
@@ -179,8 +179,8 @@ As mean global temperatures rise, local climates will experience extreme tempera
 
 #### Recipe Files
 
--   [probablefutures.40104-east-draft](https://txt.fyi/-/21280/d2026e39/)
--   [probablefutures.40104-west-draft](https://txt.fyi/-/21280/8912456a/)
+-   [probablefutures.40104-east-draft](https://gist.github.com/petercroce/cd35947412c943686b5ef1b1dbba27a9)
+-   [probablefutures.40104-west-draft](https://gist.github.com/petercroce/a6952e15c831b880da9ef39aa223411e)
 
 #### Images
 
