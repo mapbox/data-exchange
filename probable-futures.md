@@ -17,17 +17,17 @@ Probable Futures is an initiative that aims to increase the chances that our fut
 
 ## Tips for working with this data 
 
--   Background. To understand more about how these data are created, how they can be applied, and their uses and limitations, we highly recommend reading the [science section on the Probable Futures website](https://probablefutures.org/science/?tab=climate-models). 
+-   **Background**. To understand more about how these data are created, how they can be applied, and their uses and limitations, we highly recommend reading the [science section on the Probable Futures website](https://probablefutures.org/science/?tab=climate-models). 
 
--   Tileset performance. These tilesets are very large. For applications that do not require viewing the whole world, you may find the tilesets load faster if they are loaded (at least initially) at a more zoomed-in zoom level. 
+-   **Tileset performance**. These tilesets are very large. For applications that do not require viewing the whole world, you may find the tilesets load faster if they are loaded (at least initially) at a more zoomed-in zoom level. 
 
--   Colors and binning. Selecting colors and bins is challenging. In the [Probable Futures application that uses these tilesets](https://probablefutures.org/heat/maps-of-heat/), we put considerable time and thought into the colors and bins we use. 
+-   **Colors and binning**. Selecting colors and bins is challenging. In the [Probable Futures application that uses these tilesets](https://probablefutures.org/heat/maps-of-heat/), we put considerable time and thought into the colors and bins we use. 
 
--   The colors we selected are intended to discourage snap judgments about "good" and "bad" outcomes in particular places. For example, when we used a color palette with reds and oranges, people who saw the map immediately thought of the darker red areas as having a particularly bad climate outcome. Absolute temperatures, unless they are very high, are not inherently "bad". But change can negatively impact infrastructure, industry, and community culture in different ways. We tried to use colors that encourage viewers of the maps to look closely, notice change, and imagine for themselves what the potential consequences of those changes might be.
+--   The colors we selected are intended to discourage snap judgments about "good" and "bad" outcomes in particular places. For example, when we used a color palette with reds and oranges, people who saw the map immediately thought of the darker red areas as having a particularly bad climate outcome. Absolute temperatures, unless they are very high, are not inherently "bad". But change can negatively impact infrastructure, industry, and community culture in different ways. We tried to use colors that encourage viewers of the maps to look closely, notice change, and imagine for themselves what the potential consequences of those changes might be.
 
--   The colors we selected are distinguishable for many types of vision impairment such as common forms of color blindness. [ColorBrewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3) is a helpful tool for selecting accessible color palettes.
+--   The colors we selected are distinguishable for many types of vision impairment such as common forms of color blindness. [ColorBrewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3) is a helpful tool for selecting accessible color palettes.
 
--   "Binning", or the "stops" when one color stops and another begins, also make a big difference for how people perceive information within maps. We selected bins that are generally intuitive -- such as divisions at known intervals like roughly weeks and months, and stops at significant thresholds like freezing and temperatures above which it becomes uncomfortable or challenging for the human body to cool itself through perspiration.
+--   "Binning", or the "stops" when one color stops and another begins, also make a big difference for how people perceive information within maps. We selected bins that are generally intuitive -- such as divisions at known intervals like roughly weeks and months, and stops at significant thresholds like freezing and temperatures above which it becomes uncomfortable or challenging for the human body to cool itself through perspiration.
 
 ### What's included in the tilesets
 
@@ -124,6 +124,8 @@ pctl90 | This is the 90th percentile of the number of days per year that reach f
 
 ![](https://lh5.googleusercontent.com/3J1JXSE7kd_YAUJU_IQRLjfZESFqSDFG3n3njIY2j559SNUdzaD_qQR_RN2X6Kos56aVnEQn85wMvazJ9bkaQZ8ChoMthhfEZwffJyX6y3nHrN6gTcV5WTsc5iluhIHgbLGFpYhP=s0)
 
+--
+
 ### 10 hottest wet-bulb days
 
 #### Tileset IDs 
@@ -156,6 +158,7 @@ pctl90 | This is the 90th percentile of the temperature (in Celsius) of the 10 h
 
 ![](https://lh5.googleusercontent.com/93i4lVzSJCmWyE7prLYlsC9YJCYW4OIs66O-Azk7dNkCNV2mneBbg7_ZqzOVibkAa46XKoes2vw34eY_aHv5x-CIyBPzbnXdWelsdYTRPvvbBbNpj0AugTapVRwLZEfcTDGLDQtB=s0)
 
+--
 
 ### Days above 32°C (90°F)
 
