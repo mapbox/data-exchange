@@ -13,3 +13,7 @@ This repositiory documents public tilesets based on open data. Includes details 
 ## Climate change projections
 
 [Climate change impacts](probable-futures.md) projected under various warming scenarios, prepared by Probable Futures
+
+## Ookla for good
+
+[Ookla for Good](ookla.md) global broadband and mobile network performance metrics.
