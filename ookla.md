@@ -57,6 +57,11 @@ https://registry.opendata.aws/speedtest-global-performance/
 
 ## Images
 
+![image](https://user-images.githubusercontent.com/22896/137829010-9c9e02c0-1f08-4d78-9103-4c410c732d38.png)
+
+![image](https://user-images.githubusercontent.com/22896/137829045-6e7728dc-1492-4c12-a09e-2d5de62e983d.png)
+
+
 ## Tips for working with this data
 
 Python: https://github.com/teamookla/ookla-open-data/blob/master/tutorials/aggregate_by_county_py.ipynb
