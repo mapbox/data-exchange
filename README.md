@@ -1,6 +1,6 @@
 # Mapbox Data Exchange
 
-This repositiory documents public tilesets based on open data. Includes details on how to build and use the tilesets.
+This repository documents public tilesets based on open data. Includes details on how to build and use the tilesets.
 
 ## Wildfire perimeters
 
