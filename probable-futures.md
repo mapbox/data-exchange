@@ -17,7 +17,7 @@ Probable Futures is an initiative that aims to increase the chances that our fut
 
 ## Attribution 
 
-When publishing any Probable Futures datasets, please include the following credit:
+When publishing a map using any Probable Futures dataset, please include the following credit:
 > Based on data and other content made available by [Probable Futures](https://probablefutures.org/). Certain data may have been provided to Probable Futures by Woodwell Climate Research Center and The Coordinated Regional climate Downscaling Experiment (CORDEX).
 
 
