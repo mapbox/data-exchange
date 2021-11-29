@@ -15,6 +15,12 @@ This document includes three tilesets
 
 Probable Futures is an initiative that aims to increase the chances that our future is good. We offer useful tools to visualize climate change along with stories and insights to help people understand what those changes mean. We also partner with courageous leaders and influential organizations — without cost or compensation — to show how this perspective and these tools can be applied towards practical approaches to the problems posed by climate change. 
 
+## Attribution 
+
+When publishing a map using any Probable Futures dataset, please include the following credit:
+> Based on data and other content made available by [Probable Futures](https://probablefutures.org/). Certain data may have been provided to Probable Futures by Woodwell Climate Research Center and The Coordinated Regional climate Downscaling Experiment (CORDEX).
+
+
 ## Tips for working with this data 
 
 -   **Background**. To understand more about how these data are created, how they can be applied, and their uses and limitations, we highly recommend reading the [science section on the Probable Futures website](https://probablefutures.org/science/?tab=climate-models). 
