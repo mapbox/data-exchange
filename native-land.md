@@ -4,7 +4,7 @@ Native Land Territories
 
 ## Tileset ID(s)
 
-[nativeland.cjh3mywgg04aaahpidhgio50e-9ctzy](https://studio.mapbox.com/tilesets/nativeland.cjh3mywgg04aaahpidhgio50e-9ctzy/)
+[nativeland.4pgB_next_nld_terr_prod_layer](https://studio.mapbox.com/tilesets/nativeland.4pgB_next_nld_terr_prod_layer/)
 
 ## About the data
 
